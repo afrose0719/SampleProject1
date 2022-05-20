@@ -1,5 +1,6 @@
 public class AccTriggerHander {
 
+    //Acocount Handler
     public static void conupdate(list<Account> Acx) {
         List<Contact>Conlist =new List<contact>();
         for(Account Ac:Acx){
