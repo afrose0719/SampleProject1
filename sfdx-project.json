@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "New Package",
+      "default": true
+    }
+  ],
+  "name": "SampleProject1",
+  "namespace": "AfroseDev",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "54.0"
+}
